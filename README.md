@@ -2,7 +2,9 @@
 **A wordcloud generator for subreddits. Visualize frequency of word appearances!**
 
 **/r/machinelearning wordcloud**
-<img src='./ml_cloud.png'></img>
+
+<img style='text-align:center' src='./ml_cloud.png'></img>
+
 **What does each script do?**
 
 - subreddit_scraper.py to scrape submissions to a subreddit between specified dates.
